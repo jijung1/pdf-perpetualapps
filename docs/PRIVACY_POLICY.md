@@ -1,0 +1,36 @@
+<!-- Generated from app/src/main/assets/legal/privacy-policy.txt; keep both identical. Host this text at a public URL for the Play Console. -->
+
+# Privacy Policy for PDF Editor: Perpetual Apps
+Effective: 18 November 2026
+
+PDF Editor by Perpetual Apps ("the app") is a PDF editor that works entirely on your device. This policy explains what that means for your information.
+
+## What the app collects
+Nothing. The app has no accounts, no ads, no analytics, no crash reporting and no tracking of any kind. It does not request the Internet permission, so it is technically unable to send your documents or any other information off your device.
+
+## Purchases
+You buy the app through Google Play, which processes your payment under Google's own privacy policy. We never see your payment details. Google Play gives us limited information about each order, such as an order number, the purchase date and the country of purchase, which we use only for accounting, tax and refunds.
+
+## Your documents
+The app only opens files you choose with Android's file picker, or files another app hands to it (for example with "Open with" or "Share"). Documents are read and processed on your device. The app never changes an original file unless you explicitly choose "Overwrite original". New files are written only where you choose to save them.
+
+While you work, the app keeps temporary copies in its private cache so it can edit and check them. These are deleted when you finish, and any left over are removed the next time the app starts.
+
+## What the app stores on your device
+- A list of recently opened documents (a reference to the file's location, its name, size and page count, when you last opened it and the last page you viewed) and a small thumbnail of its first page, so you can reopen it quickly. The app keeps Android's permission to reopen these files. Removing an item from the list deletes its entry and thumbnail and gives that permission back.
+- Signatures and initials you choose to save, stored as drawing strokes.
+- Unsaved edits, kept as a draft so nothing is lost if the app closes unexpectedly.
+
+All of this stays in the app's private storage. It is excluded from Android cloud backup and from device-to-device transfer. Uninstalling the app, or clearing its storage in Android Settings, deletes it permanently.
+
+## Sharing
+When you tap Share, Android's share sheet sends the file to the app you pick. What happens next is governed by that app's privacy policy, not this one.
+
+## Children
+The app does not collect personal information from anyone, including children.
+
+## Changes
+If this policy changes, the new version will be included in the app and on its store page, with a new effective date.
+
+## Contact
+Questions about privacy can be sent to the developer contact listed on the app's Google Play store page.

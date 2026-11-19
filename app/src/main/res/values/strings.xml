@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Launcher label (under the icon). Store title is "PDF Editor: Perpetual Apps"; see docs/PRODUCT_DECISIONS.md. -->
+    <string name="app_name">PDF Editor: pA</string>
+</resources>

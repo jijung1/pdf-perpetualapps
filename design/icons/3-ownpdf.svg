@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="432" height="432">
+  <!-- Option 3 · OwnPDF — "yours forever": a page carrying an infinity loop. Foreverware first, privacy second. -->
+  <rect width="108" height="108" fill="#12464C"/>
+  <path d="M40 28H60L70 38V78a2 2 0 0 1-2 2H40a2 2 0 0 1-2-2V30a2 2 0 0 1 2-2Z" fill="#F6F4EF"/>
+  <path d="M60 28L70 38H62a2 2 0 0 1-2-2Z" fill="#7FB8B0"/>
+  <path d="M43 44h17v3H43z" fill="#12464C" opacity=".8"/>
+  <path d="M44 61c0-5.2 7-5.2 10 0s10 5.2 10 0-7-5.2-10 0-10 5.2-10 0Z" fill="none" stroke="#E9A63C" stroke-width="3.2" stroke-linejoin="round"/>
+</svg>

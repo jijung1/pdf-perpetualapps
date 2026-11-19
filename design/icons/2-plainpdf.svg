@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="432" height="432">
+  <!-- Option 2 · PlainPDF — "just a PDF editor": the word PDF on a plain page, one pencil mark. Calm, ad-free look. -->
+  <rect width="108" height="108" fill="#F6F4EF"/>
+  <path d="M40 28H60L70 38V78a2 2 0 0 1-2 2H40a2 2 0 0 1-2-2V30a2 2 0 0 1 2-2Z" fill="#FFFFFF" stroke="#1D2B53" stroke-width="2.6" stroke-linejoin="round"/>
+  <path d="M60 28v8a2 2 0 0 0 2 2h8" fill="none" stroke="#1D2B53" stroke-width="2.6" stroke-linejoin="round"/>
+  <text x="54" y="62" text-anchor="middle" font-family="Inter, Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="12.5" letter-spacing=".3" fill="#1D2B53">PDF</text>
+  <path d="M44.5 69.5q4.75-3 9.5 0t9.5 0" fill="none" stroke="#E07A3F" stroke-width="2.6" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,194 @@
+﻿annot-freetext.pdf | 1 open+render | OK | 152ms | pages=1
+annot-freetext.pdf | 0 info | INFO | 0ms | encrypted=false fields=0 xfa=false
+annot-freetext.pdf | 2 whiteout lines | OK | 306ms | boxes=1 glyphsRemoved=9 rasterized=[] textLen=17
+annot-freetext.pdf | 3 whiteout large | OK | 82ms | glyphs=0 imgRemoved=0 imgRedacted=0 paths=0 rasterized=[]
+annot-freetext.pdf | 4 edit text | OK | 190ms | removed=9 fontSubstituted=1
+annot-freetext.pdf | 5 add text+sign | OK | 136ms | fieldsFlattened=0 annotsFlattened=2 kept=0
+annot-freetext.pdf | 6 organize | OK | 61ms | pages=2 fields=0 bookmarksDropped=false
+annot-freetext.pdf | 7 split | OK | 30ms | pages=1
+annot-highlights.pdf | 1 open+render | OK | 7ms | pages=1
+annot-highlights.pdf | 0 info | INFO | 0ms | encrypted=false fields=0 xfa=false
+annot-highlights.pdf | 2 whiteout lines | OK | 131ms | boxes=2 glyphsRemoved=37 rasterized=[] textLen=1
+annot-highlights.pdf | 3 whiteout large | OK | 67ms | glyphs=0 imgRemoved=0 imgRedacted=0 paths=0 rasterized=[]
+annot-highlights.pdf | 4 edit text | OK | 141ms | removed=10 fontSubstituted=1
+annot-highlights.pdf | 5 add text+sign | OK | 112ms | fieldsFlattened=0 annotsFlattened=1 kept=0
+annot-highlights.pdf | 6 organize | OK | 28ms | pages=2 fields=0 bookmarksDropped=false
+annot-highlights.pdf | 7 split | OK | 24ms | pages=1
+brochure-nps-2011-guide.pdf | 1 open+render | OK | 746ms | pages=2
+brochure-nps-2011-guide.pdf | 0 info | INFO | 0ms | encrypted=false fields=0 xfa=false
+brochure-nps-2011-guide.pdf | 2 whiteout lines | OK | 4404ms | boxes=6 glyphsRemoved=0 rasterized=[0, 1] textLen=2
+brochure-nps-2011-guide.pdf | 3 whiteout large | OK | 2447ms | glyphs=0 imgRemoved=0 imgRedacted=0 paths=0 rasterized=[0, 1]
+brochure-nps-2011-guide.pdf | 4 edit text | OK | 508ms | removed=2 fontSubstituted=0
+brochure-nps-2011-guide.pdf | 5 add text+sign | OK | 426ms | fieldsFlattened=0 annotsFlattened=0 kept=0
+brochure-nps-2011-guide.pdf | 6 organize | OK | 376ms | pages=3 fields=0 bookmarksDropped=false
+brochure-nps-2011-guide.pdf | 7 split | OK | 201ms | pages=1
+cmyk-jpeg.pdf | 1 open+render | OK | 13ms | pages=1
+cmyk-jpeg.pdf | 0 info | INFO | 0ms | encrypted=false fields=0 xfa=false
+cmyk-jpeg.pdf | 2 whiteout lines | OK | 14ms | no text found (scan?)
+cmyk-jpeg.pdf | 3 whiteout large | OK | 57ms | glyphs=0 imgRemoved=0 imgRedacted=0 paths=0 rasterized=[]
+cmyk-jpeg.pdf | 4 edit text | OK | 27ms | no editable text on page 1 (blocked=0 runs=0)
+cmyk-jpeg.pdf | 5 add text+sign | OK | 96ms | fieldsFlattened=0 annotsFlattened=0 kept=0
+cmyk-jpeg.pdf | 6 organize | OK | 36ms | pages=2 fields=0 bookmarksDropped=false
+cmyk-jpeg.pdf | 7 split | OK | 25ms | pages=1
+encrypted-user-password.pdf | 1 open+render | REFUSED | 4ms | open: PasswordProtected
+encrypted-user-password.pdf | 2-7 | SKIPPED | 0ms | not openable in the app
+font-type3.pdf | 1 open+render | OK | 9ms | pages=1
+font-type3.pdf | 0 info | INFO | 0ms | encrypted=false fields=0 xfa=false
+font-type3.pdf | 2 whiteout lines | OK | 13ms | no text found (scan?)
+font-type3.pdf | 3 whiteout large | OK | 13ms | glyphs=0 imgRemoved=0 imgRedacted=0 paths=0 rasterized=[]
+font-type3.pdf | 4 edit text | OK | 3ms | no editable text on page 1 (blocked=0 runs=0)
+font-type3.pdf | 5 add text+sign | OK | 60ms | fieldsFlattened=0 annotsFlattened=0 kept=0
+font-type3.pdf | 6 organize | OK | 12ms | pages=2 fields=0 bookmarksDropped=false
+font-type3.pdf | 7 split | OK | 12ms | pages=1
+form-checkbox-no-appearance.pdf | 1 open+render | OK | 10ms | pages=1
+form-checkbox-no-appearance.pdf | 0 info | INFO | 0ms | encrypted=false fields=2 xfa=false
+form-checkbox-no-appearance.pdf | 2 whiteout lines | OK | 2ms | no text found (scan?)
+form-checkbox-no-appearance.pdf | 3 whiteout large | OK | 10ms | glyphs=0 imgRemoved=0 imgRedacted=0 paths=0 rasterized=[]
+form-checkbox-no-appearance.pdf | 4 edit text | OK | 9ms | no editable text on page 1 (blocked=0 runs=0)
+form-checkbox-no-appearance.pdf | 5 add text+sign | OK | 50ms | fieldsFlattened=2 annotsFlattened=0 kept=0
+form-checkbox-no-appearance.pdf | 6 organize | OK | 9ms | pages=2 fields=4 bookmarksDropped=false
+form-checkbox-no-appearance.pdf | 7 split | OK | 6ms | pages=1
+form-text-widgets.pdf | 1 open+render | OK | 7ms | pages=1
+form-text-widgets.pdf | 0 info | INFO | 0ms | encrypted=false fields=9 xfa=true
+form-text-widgets.pdf | 2 whiteout lines | OK | 313ms | boxes=3 glyphsRemoved=78 rasterized=[] textLen=713
+form-text-widgets.pdf | 3 whiteout large | OK | 188ms | glyphs=425 imgRemoved=0 imgRedacted=0 paths=0 rasterized=[]
+form-text-widgets.pdf | 4 edit text | OK | 195ms | removed=29 fontSubstituted=1
+form-text-widgets.pdf | 5 add text+sign | OK | 195ms | fieldsFlattened=7 annotsFlattened=7 kept=0
+form-text-widgets.pdf | 6 organize | OK | 146ms | pages=2 fields=14 bookmarksDropped=false
+form-text-widgets.pdf | 7 split | OK | 78ms | pages=1
+form-xfa.pdf | 1 open+render | OK | 10ms | pages=1
+form-xfa.pdf | 0 info | INFO | 0ms | encrypted=false fields=2 xfa=true
+form-xfa.pdf | 2 whiteout lines | OK | 270ms | boxes=3 glyphsRemoved=164 rasterized=[] textLen=532
+form-xfa.pdf | 3 whiteout large | OK | 207ms | glyphs=379 imgRemoved=0 imgRedacted=0 paths=0 rasterized=[]
+form-xfa.pdf | 4 edit text | OK | 222ms | removed=15 fontSubstituted=0
+form-xfa.pdf | 5 add text+sign | OK | 153ms | fieldsFlattened=1 annotsFlattened=1 kept=0
+form-xfa.pdf | 6 organize | OK | 260ms | pages=2 fields=2 bookmarksDropped=true
+form-xfa.pdf | 7 split | OK | 263ms | pages=1
+gov-irs-1040-form.pdf | 1 open+render | OK | 45ms | pages=2
+gov-irs-1040-form.pdf | 0 info | INFO | 0ms | encrypted=false fields=229 xfa=true
+gov-irs-1040-form.pdf | 2 whiteout lines | OK | 2519ms | boxes=6 glyphsRemoved=53 rasterized=[] textLen=10360
+gov-irs-1040-form.pdf | 3 whiteout large | OK | 1549ms | glyphs=3953 imgRemoved=0 imgRedacted=0 paths=316 rasterized=[]
+gov-irs-1040-form.pdf | 4 edit text | OK | 1454ms | removed=4 fontSubstituted=0
+gov-irs-1040-form.pdf | 5 add text+sign | OK | 1036ms | fieldsFlattened=199 annotsFlattened=126 kept=0
+gov-irs-1040-form.pdf | 6 organize | OK | 616ms | pages=3 fields=327 bookmarksDropped=false
+gov-irs-1040-form.pdf | 7 split | OK | 407ms | pages=1
+gov-irs-pub17-large.pdf | 1 open+render | OK | 674ms | pages=142
+gov-irs-pub17-large.pdf | 0 info | INFO | 0ms | encrypted=false fields=0 xfa=false
+gov-irs-pub17-large.pdf | 2 whiteout lines | OK | 35759ms | boxes=15 glyphsRemoved=352 rasterized=[] textLen=1002169
+gov-irs-pub17-large.pdf | 3 whiteout large | OK | 15290ms | glyphs=5527 imgRemoved=0 imgRedacted=0 paths=15 rasterized=[]
+gov-irs-pub17-large.pdf | 4 edit text | OK | 19862ms | removed=11 fontSubstituted=0
+gov-irs-pub17-large.pdf | 5 add text+sign | OK | 14895ms | fieldsFlattened=0 annotsFlattened=0 kept=0
+gov-irs-pub17-large.pdf | 6 organize | OK | 8918ms | pages=11 fields=0 bookmarksDropped=true
+gov-irs-pub17-large.pdf | 7 split | OK | 4711ms | pages=1
+gov-irs-w9-form.pdf | 1 open+render | OK | 52ms | pages=6
+gov-irs-w9-form.pdf | 0 info | INFO | 0ms | encrypted=false fields=27 xfa=true
+gov-irs-w9-form.pdf | 2 whiteout lines | OK | 1765ms | boxes=15 glyphsRemoved=357 rasterized=[] textLen=37839
+gov-irs-w9-form.pdf | 3 whiteout large | OK | 709ms | glyphs=8537 imgRemoved=0 imgRedacted=0 paths=43 rasterized=[]
+gov-irs-w9-form.pdf | 4 edit text | OK | 526ms | removed=6 fontSubstituted=0
+gov-irs-w9-form.pdf | 5 add text+sign | OK | 361ms | fieldsFlattened=23 annotsFlattened=15 kept=0
+gov-irs-w9-form.pdf | 6 organize | OK | 183ms | pages=7 fields=46 bookmarksDropped=false
+gov-irs-w9-form.pdf | 7 split | OK | 122ms | pages=1
+gov-uscis-i9-form.pdf | 1 open+render | OK | 66ms | pages=4
+gov-uscis-i9-form.pdf | 0 info | INFO | 0ms | encrypted=false fields=133 xfa=false
+gov-uscis-i9-form.pdf | 2 whiteout lines | OK | 2510ms | boxes=12 glyphsRemoved=442 rasterized=[] textLen=13933
+gov-uscis-i9-form.pdf | 3 whiteout large | OK | 1323ms | glyphs=4927 imgRemoved=0 imgRedacted=0 paths=72 rasterized=[]
+gov-uscis-i9-form.pdf | 4 edit text | OK | 1328ms | removed=36 fontSubstituted=1
+gov-uscis-i9-form.pdf | 5 add text+sign | OK | 989ms | fieldsFlattened=128 annotsFlattened=4 kept=0
+gov-uscis-i9-form.pdf | 6 organize | OK | 736ms | pages=5 fields=180 bookmarksDropped=false
+gov-uscis-i9-form.pdf | 7 split | OK | 394ms | pages=1
+image-jpeg2000.pdf | 1 open+render | OK | 76ms | pages=1
+image-jpeg2000.pdf | 0 info | INFO | 0ms | encrypted=false fields=0 xfa=false
+image-jpeg2000.pdf | 2 whiteout lines | OK | 21ms | no text found (scan?)
+image-jpeg2000.pdf | 3 whiteout large | OK | 67ms | glyphs=0 imgRemoved=0 imgRedacted=0 paths=0 rasterized=[]
+image-jpeg2000.pdf | 4 edit text | OK | 6ms | no editable text on page 1 (blocked=0 runs=0)
+image-jpeg2000.pdf | 5 add text+sign | OK | 65ms | fieldsFlattened=0 annotsFlattened=0 kept=0
+image-jpeg2000.pdf | 6 organize | OK | 55ms | pages=2 fields=0 bookmarksDropped=false
+image-jpeg2000.pdf | 7 split | OK | 45ms | pages=1
+page-rotation.pdf | 1 open+render | OK | 7ms | pages=2
+page-rotation.pdf | 0 info | INFO | 0ms | encrypted=false fields=0 xfa=false
+page-rotation.pdf | 2 whiteout lines | OK | 35ms | boxes=4 glyphsRemoved=155 rasterized=[] textLen=13
+page-rotation.pdf | 3 whiteout large | OK | 34ms | glyphs=0 imgRemoved=0 imgRedacted=0 paths=0 rasterized=[]
+page-rotation.pdf | 4 edit text | OK | 59ms | removed=42 fontSubstituted=1
+page-rotation.pdf | 5 add text+sign | OK | 34ms | fieldsFlattened=0 annotsFlattened=0 kept=0
+page-rotation.pdf | 6 organize | OK | 20ms | pages=3 fields=0 bookmarksDropped=false
+page-rotation.pdf | 7 split | OK | 9ms | pages=1
+paper-arxiv-attention.pdf | 1 open+render | OK | 157ms | pages=15
+paper-arxiv-attention.pdf | 0 info | INFO | 0ms | encrypted=false fields=0 xfa=false
+paper-arxiv-attention.pdf | 2 whiteout lines | OK | 5225ms | boxes=15 glyphsRemoved=853 rasterized=[] textLen=38998
+paper-arxiv-attention.pdf | 3 whiteout large | OK | 3030ms | glyphs=3249 imgRemoved=0 imgRedacted=1 paths=0 rasterized=[]
+paper-arxiv-attention.pdf | 4 edit text | OK | 3133ms | removed=66 fontSubstituted=1
+paper-arxiv-attention.pdf | 5 add text+sign | OK | 2323ms | fieldsFlattened=0 annotsFlattened=0 kept=0
+paper-arxiv-attention.pdf | 6 organize | OK | 1383ms | pages=11 fields=0 bookmarksDropped=true
+paper-arxiv-attention.pdf | 7 split | OK | 678ms | pages=1
+paper-tamreview.pdf | 1 open+render | OK | 40ms | pages=23
+paper-tamreview.pdf | 0 info | INFO | 0ms | encrypted=false fields=0 xfa=false
+paper-tamreview.pdf | 2 whiteout lines | OK | 1478ms | boxes=13 glyphsRemoved=507 rasterized=[] textLen=63243
+paper-tamreview.pdf | 3 whiteout large | OK | 387ms | glyphs=4708 imgRemoved=0 imgRedacted=0 paths=17 rasterized=[]
+paper-tamreview.pdf | 4 edit text | OK | 345ms | removed=37 fontSubstituted=0
+paper-tamreview.pdf | 5 add text+sign | OK | 263ms | fieldsFlattened=0 annotsFlattened=0 kept=0
+paper-tamreview.pdf | 6 organize | OK | 167ms | pages=11 fields=0 bookmarksDropped=true
+paper-tamreview.pdf | 7 split | OK | 95ms | pages=1
+paper-tracemonkey.pdf | 1 open+render | OK | 75ms | pages=14
+paper-tracemonkey.pdf | 0 info | INFO | 0ms | encrypted=false fields=0 xfa=false
+paper-tracemonkey.pdf | 2 whiteout lines | OK | 2361ms | boxes=15 glyphsRemoved=348 rasterized=[] textLen=82411
+paper-tracemonkey.pdf | 3 whiteout large | OK | 734ms | glyphs=5981 imgRemoved=10 imgRedacted=0 paths=59 rasterized=[]
+paper-tracemonkey.pdf | 4 edit text | OK | 640ms | removed=51 fontSubstituted=1
+paper-tracemonkey.pdf | 5 add text+sign | OK | 388ms | fieldsFlattened=0 annotsFlattened=0 kept=0
+paper-tracemonkey.pdf | 6 organize | OK | 361ms | pages=11 fields=0 bookmarksDropped=false
+paper-tracemonkey.pdf | 7 split | OK | 234ms | pages=1
+scan-ccitt-fax.pdf | 1 open+render | OK | 39ms | pages=1
+scan-ccitt-fax.pdf | 0 info | INFO | 0ms | encrypted=false fields=0 xfa=false
+scan-ccitt-fax.pdf | 2 whiteout lines | OK | 1ms | no text found (scan?)
+scan-ccitt-fax.pdf | 3 whiteout large | OK | 696ms | glyphs=0 imgRemoved=0 imgRedacted=1 paths=0 rasterized=[]
+scan-ccitt-fax.pdf | 4 edit text | OK | 5ms | no editable text on page 1 (blocked=0 runs=0)
+scan-ccitt-fax.pdf | 5 add text+sign | OK | 31ms | fieldsFlattened=0 annotsFlattened=0 kept=0
+scan-ccitt-fax.pdf | 6 organize | OK | 5ms | pages=2 fields=0 bookmarksDropped=false
+scan-ccitt-fax.pdf | 7 split | OK | 10ms | pages=1
+scan-declaration-archive-org.pdf | 1 open+render | OK | 548ms | pages=136
+scan-declaration-archive-org.pdf | 0 info | INFO | 0ms | encrypted=false fields=0 xfa=false
+scan-declaration-archive-org.pdf | 2 whiteout lines | OK | 350ms | no text found (scan?)
+scan-declaration-archive-org.pdf | 3 whiteout large | OK | 3258ms | glyphs=0 imgRemoved=0 imgRedacted=0 paths=0 rasterized=[0, 1, 2]
+scan-declaration-archive-org.pdf | 4 edit text | OK | 310ms | no editable text on page 1 (blocked=0 runs=0)
+scan-declaration-archive-org.pdf | 5 add text+sign | OK | 986ms | fieldsFlattened=0 annotsFlattened=0 kept=0
+scan-declaration-archive-org.pdf | 6 organize | OK | 715ms | pages=11 fields=0 bookmarksDropped=false
+scan-declaration-archive-org.pdf | 7 split | OK | 332ms | pages=1
+scan-jbig2.pdf | 1 open+render | OK | 56ms | pages=1
+scan-jbig2.pdf | 0 info | INFO | 0ms | encrypted=false fields=0 xfa=false
+scan-jbig2.pdf | 2 whiteout lines | OK | 1ms | no text found (scan?)
+scan-jbig2.pdf | 3 whiteout large | OK | 223ms | glyphs=0 imgRemoved=0 imgRedacted=0 paths=0 rasterized=[0]
+scan-jbig2.pdf | 4 edit text | OK | 2ms | no editable text on page 1 (blocked=0 runs=0)
+scan-jbig2.pdf | 5 add text+sign | OK | 31ms | fieldsFlattened=0 annotsFlattened=0 kept=0
+scan-jbig2.pdf | 6 organize | OK | 10ms | pages=2 fields=0 bookmarksDropped=false
+scan-jbig2.pdf | 7 split | OK | 9ms | pages=1
+structure-many-forms.pdf | 1 open+render | OK | 241ms | pages=1
+structure-many-forms.pdf | 0 info | INFO | 0ms | encrypted=false fields=0 xfa=false
+structure-many-forms.pdf | 2 whiteout lines | OK | 6113ms | boxes=3 glyphsRemoved=12 rasterized=[] textLen=3967
+structure-many-forms.pdf | 3 whiteout large | OK | 11874ms | glyphs=1187 imgRemoved=0 imgRedacted=0 paths=2849 rasterized=[]
+structure-many-forms.pdf | 4 edit text | OK | 1372ms | no editable text on page 1 (blocked=1536 runs=1536)
+structure-many-forms.pdf | 5 add text+sign | OK | 1400ms | fieldsFlattened=0 annotsFlattened=0 kept=0
+structure-many-forms.pdf | 6 organize | OK | 24ms | pages=2 fields=0 bookmarksDropped=false
+structure-many-forms.pdf | 7 split | OK | 7ms | pages=1
+text-arabic-cid.pdf | 1 open+render | OK | 6ms | pages=1
+text-arabic-cid.pdf | 0 info | INFO | 0ms | encrypted=false fields=0 xfa=false
+text-arabic-cid.pdf | 2 whiteout lines | OK | 70ms | boxes=3 glyphsRemoved=19 rasterized=[] textLen=63
+text-arabic-cid.pdf | 3 whiteout large | OK | 52ms | glyphs=38 imgRemoved=0 imgRedacted=0 paths=0 rasterized=[]
+text-arabic-cid.pdf | 4 edit text | OK | 78ms | removed=7 fontSubstituted=1
+text-arabic-cid.pdf | 5 add text+sign | OK | 60ms | fieldsFlattened=0 annotsFlattened=0 kept=0
+text-arabic-cid.pdf | 6 organize | OK | 22ms | pages=2 fields=0 bookmarksDropped=false
+text-arabic-cid.pdf | 7 split | OK | 17ms | pages=1
+text-vertical-cjk.pdf | 1 open+render | OK | 13ms | pages=3
+text-vertical-cjk.pdf | 0 info | INFO | 0ms | encrypted=false fields=0 xfa=false
+text-vertical-cjk.pdf | 2 whiteout lines | OK | 159ms | no text found (scan?)
+text-vertical-cjk.pdf | 3 whiteout large | OK | 22ms | glyphs=0 imgRemoved=0 imgRedacted=0 paths=0 rasterized=[]
+text-vertical-cjk.pdf | 4 edit text | OK | 22ms | no editable text on page 1 (blocked=8 runs=8)
+text-vertical-cjk.pdf | 5 add text+sign | OK | 108ms | fieldsFlattened=0 annotsFlattened=0 kept=0
+text-vertical-cjk.pdf | 6 organize | OK | 10ms | pages=4 fields=0 bookmarksDropped=false
+text-vertical-cjk.pdf | 7 split | OK | 11ms | pages=1
+transparency-alpha.pdf | 1 open+render | OK | 20ms | pages=1
+transparency-alpha.pdf | 0 info | INFO | 0ms | encrypted=false fields=0 xfa=false
+transparency-alpha.pdf | 2 whiteout lines | OK | 108ms | boxes=3 glyphsRemoved=73 rasterized=[] textLen=56
+transparency-alpha.pdf | 3 whiteout large | OK | 81ms | glyphs=0 imgRemoved=1 imgRedacted=0 paths=1 rasterized=[]
+transparency-alpha.pdf | 4 edit text | OK | 26ms | removed=23 fontSubstituted=0
+transparency-alpha.pdf | 5 add text+sign | OK | 49ms | fieldsFlattened=0 annotsFlattened=0 kept=0
+transparency-alpha.pdf | 6 organize | OK | 18ms | pages=2 fields=0 bookmarksDropped=false
+transparency-alpha.pdf | 7 split | OK | 9ms | pages=1

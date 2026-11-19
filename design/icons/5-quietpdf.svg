@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="432" height="432">
+  <!-- Option 5 · Quiet PDF — a page with a closed eye: nobody is watching, nothing pops up. -->
+  <rect width="108" height="108" fill="#2D2A4A"/>
+  <path d="M40 28H60L70 38V78a2 2 0 0 1-2 2H40a2 2 0 0 1-2-2V30a2 2 0 0 1 2-2Z" fill="#F6F4EF"/>
+  <path d="M60 28L70 38H62a2 2 0 0 1-2-2Z" fill="#A99BE0"/>
+  <path d="M43 44h16v3H43z" fill="#2D2A4A" opacity=".8"/>
+  <path d="M44.5 57.5q9.5 7.5 19 0" fill="none" stroke="#2D2A4A" stroke-width="2.8" stroke-linecap="round"/>
+  <path d="M47.2 60.6l-1.6 3.1M50.9 62.6l-.8 3.3M54 63.3v3.4M57.1 62.6l.8 3.3M60.8 60.6l1.6 3.1" stroke="#2D2A4A" stroke-width="2.2" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="432" height="432">
+  <!-- D · PDF ∞: the plainest statement. A light icon that reads "PDF" at any size, with a loop for "perpetual". -->
+  <rect width="108" height="108" fill="#F7F3E8"/>
+  <path d="M40 28H60L70 38V78a2 2 0 0 1-2 2H40a2 2 0 0 1-2-2V30a2 2 0 0 1 2-2Z" fill="#FFFFFF" stroke="#13463B" stroke-width="2.6" stroke-linejoin="round"/>
+  <path d="M60 28v8a2 2 0 0 0 2 2h8" fill="none" stroke="#13463B" stroke-width="2.6" stroke-linejoin="round"/>
+  <text x="54" y="58" text-anchor="middle" font-family="Inter, Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="12.5" letter-spacing=".3" fill="#13463B">PDF</text>
+  <path d="M46 67.5c0-3.6 4.8-3.6 8 0s8 3.6 8 0-4.8-3.6-8 0-8 3.6-8 0Z" fill="none" stroke="#D99A2B" stroke-width="2.4" stroke-linejoin="round"/>
+</svg>

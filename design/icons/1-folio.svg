@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="432" height="432">
+  <!-- Option 1 · Folio — the current brand, sharpened: paper page + pen nib = "edit a document". -->
+  <rect width="108" height="108" fill="#1D2B53"/>
+  <path d="M40 28H60L70 38V78a2 2 0 0 1-2 2H40a2 2 0 0 1-2-2V30a2 2 0 0 1 2-2Z" fill="#F6F4EF"/>
+  <path d="M60 28L70 38H62a2 2 0 0 1-2-2Z" fill="#E07A3F"/>
+  <path d="M43 46h16v3H43zM43 53h22v3H43zM43 60h12v3H43z" fill="#1D2B53" opacity=".85"/>
+  <!-- pen nib, writing on the page -->
+  <g transform="rotate(40 64 66)">
+    <path d="M64 52l6.5 10L64 79l-6.5-17Z" fill="#E07A3F" stroke="#1D2B53" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M64 66v11" stroke="#1D2B53" stroke-width="1.4" stroke-linecap="round"/>
+    <circle cx="64" cy="64.5" r="1.7" fill="#1D2B53"/>
+  </g>
+</svg>

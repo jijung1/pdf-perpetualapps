@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="432" height="432">
+  <!-- E · Kept seal: a document with a gold seal carrying an infinity loop. "Yours to keep." -->
+  <rect width="108" height="108" fill="#13463B"/>
+  <g transform="translate(-4 0)">
+    <path d="M40 28H60L70 38V78a2 2 0 0 1-2 2H40a2 2 0 0 1-2-2V30a2 2 0 0 1 2-2Z" fill="#F7F3E8"/>
+    <path d="M60 28L70 38H62a2 2 0 0 1-2-2Z" fill="#9CC5B5"/>
+    <path d="M43 44h16v3H43zM43 51h20v3H43zM43 58h10v3H43z" fill="#13463B" opacity=".85"/>
+  </g>
+  <circle cx="67" cy="67" r="11" fill="#E3B04B" stroke="#13463B" stroke-width="2.2"/>
+  <circle cx="67" cy="67" r="7.6" fill="none" stroke="#13463B" stroke-width="1" stroke-dasharray="1.4 1.4" opacity=".7"/>
+  <path d="M61.6 67c0-2.6 3.4-2.6 5.4 0s5.4 2.6 5.4 0-3.4-2.6-5.4 0-5.4 2.6-5.4 0Z" fill="none" stroke="#13463B" stroke-width="1.9" stroke-linejoin="round"/>
+</svg>

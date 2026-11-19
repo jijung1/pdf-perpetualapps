@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="432" height="432">
+  <!-- Option 6 · PDF Offline — the most literal: a page plus a crossed-out cloud. "Nothing leaves this phone." -->
+  <rect width="108" height="108" fill="#24272E"/>
+  <g transform="translate(-4 0)">
+    <path d="M40 28H60L70 38V78a2 2 0 0 1-2 2H40a2 2 0 0 1-2-2V30a2 2 0 0 1 2-2Z" fill="#F6F4EF"/>
+    <path d="M60 28L70 38H62a2 2 0 0 1-2-2Z" fill="#F2B544"/>
+    <path d="M43 44h16v3H43zM43 51h20v3H43zM43 58h10v3H43z" fill="#24272E" opacity=".85"/>
+  </g>
+  <g transform="translate(0 1)">
+    <circle cx="68" cy="67" r="11.5" fill="#F2B544" stroke="#24272E" stroke-width="2.2"/>
+    <path d="M62.3 70.5h11a3.4 3.4 0 0 0 .4-6.8 4.8 4.8 0 0 0-9.2-.6 3.7 3.7 0 0 0-2.2 7.4Z" fill="none" stroke="#24272E" stroke-width="1.9" stroke-linejoin="round"/>
+    <path d="M61 60.5l14 13" stroke="#24272E" stroke-width="2.2" stroke-linecap="round"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="432" height="432">
+  <!-- Option 4 · LocalPDF — a document guarded by a shield: editing first, "it stays on your phone" second. -->
+  <rect width="108" height="108" fill="#16324F"/>
+  <g transform="translate(-4 0)">
+    <path d="M40 28H60L70 38V78a2 2 0 0 1-2 2H40a2 2 0 0 1-2-2V30a2 2 0 0 1 2-2Z" fill="#F6F4EF"/>
+    <path d="M60 28L70 38H62a2 2 0 0 1-2-2Z" fill="#9DB4D1"/>
+    <path d="M43 44h16v3H43zM43 51h20v3H43zM43 58h10v3H43z" fill="#16324F" opacity=".85"/>
+  </g>
+  <path d="M68 55l9.5 3.6v6.6c0 6.6-4.6 10.3-9.5 12.3-4.9-2-9.5-5.7-9.5-12.3v-6.6Z" fill="#2E8B6E" stroke="#16324F" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="M63.8 66.2l3 3 5.6-5.8" fill="none" stroke="#FFFFFF" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

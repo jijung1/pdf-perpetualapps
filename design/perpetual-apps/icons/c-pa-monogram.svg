@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="432" height="432">
+  <!-- C · pA monogram: the "pA" from the launcher name, set on a document. Ties the icon to "PDF Editor: pA". -->
+  <rect width="108" height="108" fill="#1D2B53"/>
+  <path d="M40 28H60L70 38V78a2 2 0 0 1-2 2H40a2 2 0 0 1-2-2V30a2 2 0 0 1 2-2Z" fill="#F6F4EF"/>
+  <path d="M60 28L70 38H62a2 2 0 0 1-2-2Z" fill="#E07A3F"/>
+  <text x="54" y="63" text-anchor="middle" font-family="Georgia, 'Noto Serif', 'Times New Roman', serif" font-weight="700" font-size="19" fill="#1D2B53"><tspan font-style="italic">p</tspan>A</text>
+  <path d="M45 69.5h18" stroke="#E07A3F" stroke-width="2.4" stroke-linecap="round"/>
+</svg>

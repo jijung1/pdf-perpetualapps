@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Perpetual Apps Icons</title>
+<style>
+  :root { --bg: #F6F4EF; --card: #FFFFFF; --ink: #1A1C21; --muted: #5C5E66; --line: #DAD6CD; --accent: #E07A3F; --wall-a: #3B4C7E; --wall-b: #1D2B53; }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --bg: #111318; --card: #1C1F25; --ink: #E3E2E6; --muted: #A9ABB4; --line: #33363F; } }
+  :root[data-theme="dark"] { --bg: #111318; --card: #1C1F25; --ink: #E3E2E6; --muted: #A9ABB4; --line: #33363F; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 1100px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { font-size: 28px; margin: 0 0 6px; letter-spacing: -.3px; }
+  .lede { color: var(--muted); margin: 0 0 28px; max-width: 780px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(330px, 1fr)); gap: 16px; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 20px; padding: 20px; display: flex; flex-direction: column; gap: 14px; }
+  .head { display: flex; gap: 14px; align-items: center; }
+  .num { font-size: 12px; font-weight: 700; color: var(--accent); letter-spacing: .5px; }
+  h2 { font-size: 20px; margin: 0; }
+  .masks { display: flex; gap: 14px; align-items: flex-end; flex-wrap: wrap; }
+  .mask { width: 84px; height: 84px; overflow: hidden; position: relative; flex: none; }
+  .mask img { position: absolute; width: 150%; height: 150%; left: -25%; top: -25%; }
+  .circle { border-radius: 50%; } .squircle { border-radius: 30%; } .rounded { border-radius: 18%; }
+  .small { width: 40px; height: 40px; border-radius: 50%; } .tiny { width: 24px; height: 24px; border-radius: 50%; }
+  .cap { font-size: 11px; color: var(--muted); text-align: center; margin-top: 4px; }
+  .home { border-radius: 16px; padding: 18px 10px 14px; background: linear-gradient(160deg, var(--wall-a), var(--wall-b)); display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; }
+  .app { display: flex; flex-direction: column; align-items: center; gap: 6px; min-width: 0; }
+  .app .mask { width: 52px; height: 52px; border-radius: 50%; }
+  /* Typical launcher label width: long names are cut with an ellipsis. */
+  .app span { color: #fff; font-size: 11px; width: 66px; text-align: center; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; text-shadow: 0 1px 2px rgba(0,0,0,.4); }
+  .ghost { width: 52px; height: 52px; border-radius: 50%; }
+  .store { display: flex; gap: 12px; align-items: center; border: 1px solid var(--line); border-radius: 14px; padding: 10px 12px; }
+  .store .mask { width: 56px; height: 56px; border-radius: 22%; }
+  .store b { display: block; font-size: 14.5px; font-weight: 600; }
+  .store small { color: var(--muted); font-size: 12.5px; }
+  .why { color: var(--muted); font-size: 13.5px; margin: 0; }
+  footer { margin-top: 28px; color: var(--muted); font-size: 13px; max-width: 820px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Icon options: PDF Editor by Perpetual Apps</h1>
+  <p class="lede">Store title <b>PDF Editor: Perpetual Apps</b>; name under the icon <b>PDF Editor: pA</b>. Each icon says “PDF editing” first (page, pen or the letters PDF), then “perpetual” (infinity loop, seal, evergreen colours). The home-screen row shows the label cut off the way many launchers show it.</p>
+  <div class="grid" id="grid"></div>
+  <footer>Icons are 108 dp adaptive canvases; launchers show only the centre 72 dp. Lettering in options C and D would be converted to outlines for the real icon so it looks the same on every phone.</footer>
+</main>
+<script>
+const options = [
+  { id: "A1", name: "Evergreen pen + pA heading", icon: "icons/a1-evergreen-pa-heading.svg",
+    why: "“pA” in EB Garamond (bold italic p, bold A), replacing the top line of text like a document title. The largest pA of the three, so it survives best at small sizes. The letters are outlines, so they look the same on every phone." },
+  { id: "A2", name: "Evergreen pen + signed pA", icon: "icons/a2-evergreen-pa-signed.svg",
+    why: "The pen is writing “pA” at the foot of the page, like a signature. It ties the monogram to Fill & sign. The italic pA is the most elegant, but thinner at 24 px." },
+  { id: "A3", name: "Evergreen pen + pA stamp", icon: "icons/a3-evergreen-pa-stamp.svg",
+    why: "A small gold roundel with “pA” in EB Garamond, like a maker's mark on the page. Reads as a brand rather than content, and could be reused across future Perpetual Apps. Smallest lettering of the three." },
+  { id: "A", name: "Evergreen pen", icon: "icons/a-evergreen-pen.svg",
+    why: "The clearest “edit a document” icon: page plus pen. Evergreen green and gold suggest something that lasts, without any symbol to decode. The safest choice." },
+  { id: "B", name: "Infinity ink", icon: "icons/b-infinity-ink.svg",
+    why: "A pen drawing an endless loop: editing and “perpetual” in one gesture. Keeps the current navy and orange colours. The loop gets small at notification size." },
+  { id: "C", name: "pA monogram", icon: "icons/c-pa-monogram.svg",
+    why: "Matches the “pA” in the name under the icon, so icon and label reinforce each other. Builds the Perpetual Apps mark for future apps. Says less about editing on its own." },
+  { id: "D", name: "PDF ∞", icon: "icons/d-pdf-infinity.svg",
+    why: "The most legible: “PDF” reads even at 24 px, and the light background stands out among dark PDF icons. Plain and calm, matching the no-ads promise." },
+  { id: "E", name: "Kept seal", icon: "icons/e-kept-seal.svg",
+    why: "A document with a gold seal: yours to keep. Feels trustworthy, but a seal can also read as “certified” or “signed”, which the app doesn't claim." },
+];
+const others = [["#E07A3F", "Photos"], ["#2E8B6E", "Maps"], ["#9A4FB0", "Notes"]];
+const grid = document.getElementById("grid");
+for (const o of options) {
+  const card = document.createElement("article");
+  card.className = "card";
+  const icon = (cls) => `<div class="mask ${cls}"><img src="${o.icon}" alt=""></div>`;
+  const home = [`<div class="app">${icon("")}<span title="PDF Editor: pA">PDF Editor: pA</span></div>`]
+    .concat(others.map(([c, l]) => `<div class="app"><div class="ghost" style="background:${c}cc"></div><span>${l}</span></div>`)).join("");
+  card.innerHTML = `
+    <div class="head">${icon("circle")}<div><div class="num">OPTION ${o.id}</div><h2>${o.name}</h2></div></div>
+    <div class="masks">
+      <div>${icon("circle")}<div class="cap">circle</div></div>
+      <div>${icon("squircle")}<div class="cap">squircle</div></div>
+      <div>${icon("rounded")}<div class="cap">rounded</div></div>
+      <div>${icon("small")}<div class="cap">40</div></div>
+      <div>${icon("tiny")}<div class="cap">24</div></div>
+    </div>
+    <div class="home">${home}</div>
+    <div class="store">${icon("")}<div><b>PDF Editor: Perpetual Apps</b><small>Perpetual Apps · Productivity</small></div></div>
+    <p class="why">${o.why}</p>`;
+  grid.appendChild(card);
+}
+</script>
+</body>
+</html>

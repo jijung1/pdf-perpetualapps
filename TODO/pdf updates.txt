@@ -1,0 +1,6 @@
+pdf updates:
+
+
+- whiteout functionality: 
+
+- talk about ocr of scanned documents possibly

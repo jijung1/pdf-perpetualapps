@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="432" height="432">
+  <!-- B · Infinity ink: a pen writing an endless loop across the page. Edit + perpetual in one gesture. -->
+  <rect width="108" height="108" fill="#1D2B53"/>
+  <path d="M40 28H60L70 38V78a2 2 0 0 1-2 2H40a2 2 0 0 1-2-2V30a2 2 0 0 1 2-2Z" fill="#F6F4EF"/>
+  <path d="M60 28L70 38H62a2 2 0 0 1-2-2Z" fill="#E07A3F"/>
+  <path d="M43 42h15v3H43z" fill="#1D2B53" opacity=".8"/>
+  <path d="M43 59c0-5.4 7.2-5.4 10.3 0s10.3 5.4 10.3 0-7.2-5.4-10.3 0-10.3 5.4-10.3 0Z" fill="none" stroke="#1D2B53" stroke-width="2.8" stroke-linejoin="round"/>
+  <g transform="rotate(-35 66 64)">
+    <path d="M66 50l5 8-5 13-5-13Z" fill="#E07A3F" stroke="#1D2B53" stroke-width="1.8" stroke-linejoin="round"/>
+    <path d="M66 62v8" stroke="#1D2B53" stroke-width="1.2" stroke-linecap="round"/>
+  </g>
+</svg>
